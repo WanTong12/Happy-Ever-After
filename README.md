@@ -1,5 +1,7 @@
 # 📖 Happy Ever – AI Storybook Generator
 
+https://happyeverafter.zeabur.app/
+
 An AI-powered storybook application that generates personalized children's stories with engaging narratives and visual elements. The app leverages Generative AI to create creative, interactive, and educational story experiences.
 
 ---

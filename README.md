@@ -8,7 +8,7 @@ An AI-powered storybook application that generates personalized children's stori
 
 ## 🚀 Project Overview
 
-**Happy Ever** is a storybook AI application designed to:
+**Happy Ever After** is a storybook AI application designed to:
 
 * Generate customized children’s stories
 * Create engaging narratives based on user prompts
@@ -40,24 +40,22 @@ Children’s story creation can be time-consuming and requires creativity. This 
 
 ## 🧠 Technologies Used
 
-* **Frontend**: (e.g., React / HTML / CSS / Antigravity)
-* **Backend**: (e.g., Node.js / Python)
+* Windsurf
 * **AI Models**:
-
-  * ChatGPT (story generation)
-  * Image generation model (illustrations)
-* **APIs**: OpenAI API / Other AI APIs
-* **Deployment**: (e.g., Vercel / GitHub Pages / Render)
+  * Gemini
+* **APIs**: Wavespeed
 
 ---
 
 ## ⚙️ Features
-
+![Storybook](Storybook.jpg)
+![TicTacToe](Tic-Tac-Toe.jpg)
 * ✨ AI-generated story content
 * 🎨 Optional AI-generated illustrations
 * 🧒 Customizable characters and themes
 * 📚 Structured story format (beginning, middle, end)
 * 🖼️ Interactive visual elements
+* 🎮 Tic-Tac-Toe game when storybook is generated
 
 ---
 

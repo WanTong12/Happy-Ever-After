@@ -73,10 +73,10 @@ Children’s story creation can be time-consuming and requires creativity. This 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/happy-ever.git
+git clone https://github.com/WanTong12/Happy-Ever-After.git
 
 # Navigate into project folder
-cd happy-ever
+cd Happy-Ever-After
 
 # Install dependencies
 npm install

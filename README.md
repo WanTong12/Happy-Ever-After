@@ -1,5 +1,4 @@
 # 📖 Happy Ever – AI Storybook Generator
-![Uploading image.png…]()
 
 https://happyeverafter.zeabur.app/
 
